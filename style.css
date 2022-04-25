@@ -1,0 +1,66 @@
+body{
+    display: flex;
+    flex-direction: column;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.header {
+    display: flex;
+}
+
+.header-links {
+    margin-left: auto
+}
+
+.title-section {
+    display: flex;
+}
+
+.title-text {
+    display: flex;
+    flex-direction: column;
+}
+
+.body-one {
+    display: flex;
+    flex-direction: column;
+}
+
+.tiles {
+    display: flex;
+}
+
+.tile {
+    display: flex;
+    flex-direction: column;
+}
+
+.body-two {
+    display: flex;
+    flex-direction: column;
+}
+
+.quote-author {
+    margin-left: auto;
+}
+
+.signup-box {
+    display: flex;
+}
+
+.action {
+    display: flex;
+    flex-direction: column;
+}
+
+.signup-bottom {
+    margin-left: auto;
+}
+
+.footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: auto;
+}
