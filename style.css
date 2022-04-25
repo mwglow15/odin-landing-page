@@ -6,6 +6,20 @@ body{
     min-height: 100vh;
 }
 
+a {
+    font-size: 28px;
+    text-decoration: none;
+    color: #E5E7EB;
+}
+
+button {
+    background-color: #3882F6;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    font-weight: bold;
+}
+
 .top-section {
     background-color: #1F2937;
     color: #F9FAF8
@@ -27,6 +41,12 @@ body{
 .title-text {
     display: flex;
     flex-direction: column;
+}
+
+.title {
+    color: #F9FAF8;
+    font-size: 48px;
+    font-weight: bolder;
 }
 
 .title-description {
