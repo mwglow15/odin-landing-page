@@ -3,10 +3,17 @@ body{
     flex-direction: column;
     margin-left: 10%;
     margin-right: 10%;
+    min-height: 100vh;
+}
+
+.top-section {
+    background-color: #1F2937;
+    color: #F9FAF8
 }
 
 .header {
     display: flex;
+    font-size: 24px;
 }
 
 .header-links {
@@ -20,6 +27,11 @@ body{
 .title-text {
     display: flex;
     flex-direction: column;
+}
+
+.title-description {
+    color: #E5E7EB;
+    font-size: 18px;
 }
 
 .body-one {
